@@ -1,0 +1,11 @@
+{
+  "name": "env_awareness_website",
+  "version": "1.0.0",
+  "description": "Environment Awareness building website for MSU's Food Science and Human Nutrition Department.\r This website is being built as part of the course project for Project management course.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
